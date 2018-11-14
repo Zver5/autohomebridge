@@ -1,6 +1,6 @@
 ﻿# Homebridge setup script
 
-Итак, что же делает этот скрипт?
+Что  делает этот скрипт?
 
 * Добавляет репозиторий nodejs 10.x
 * Ставит `nodejs` и `libavahi-compat-libdnssd-dev`
