@@ -1,7 +1,7 @@
 {
 	"bridge": {
 		"name": "HomeBridge",
-		"username": "CC:22:3D:E3:CE:30",
+		"username": "CC:22:33:44:55:11",
 		"port": 51826,
 		"pin": "123-45-678"
 	},
@@ -11,7 +11,7 @@
 		{
 			"platform": "config",
 			"name": "Config",
-			"port": 8080,
+			"port": 4444,
 			"sudo": true,
 			"temp": "/sys/class/thermal/thermal_zone0/temp",
 			"restart": "sudo -n systemctl restart homebridge",
